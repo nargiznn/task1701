@@ -1,0 +1,14 @@
+/Users/nergiznadirli/Projects/task1701/task1701/bin/Debug/netcoreapp3.1/task1701
+/Users/nergiznadirli/Projects/task1701/task1701/bin/Debug/netcoreapp3.1/task1701.deps.json
+/Users/nergiznadirli/Projects/task1701/task1701/bin/Debug/netcoreapp3.1/task1701.runtimeconfig.json
+/Users/nergiznadirli/Projects/task1701/task1701/bin/Debug/netcoreapp3.1/task1701.runtimeconfig.dev.json
+/Users/nergiznadirli/Projects/task1701/task1701/bin/Debug/netcoreapp3.1/task1701.dll
+/Users/nergiznadirli/Projects/task1701/task1701/bin/Debug/netcoreapp3.1/task1701.pdb
+/Users/nergiznadirli/Projects/task1701/task1701/obj/Debug/netcoreapp3.1/task1701.csproj.AssemblyReference.cache
+/Users/nergiznadirli/Projects/task1701/task1701/obj/Debug/netcoreapp3.1/task1701.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nergiznadirli/Projects/task1701/task1701/obj/Debug/netcoreapp3.1/task1701.AssemblyInfoInputs.cache
+/Users/nergiznadirli/Projects/task1701/task1701/obj/Debug/netcoreapp3.1/task1701.AssemblyInfo.cs
+/Users/nergiznadirli/Projects/task1701/task1701/obj/Debug/netcoreapp3.1/task1701.csproj.CoreCompileInputs.cache
+/Users/nergiznadirli/Projects/task1701/task1701/obj/Debug/netcoreapp3.1/task1701.dll
+/Users/nergiznadirli/Projects/task1701/task1701/obj/Debug/netcoreapp3.1/task1701.pdb
+/Users/nergiznadirli/Projects/task1701/task1701/obj/Debug/netcoreapp3.1/task1701.genruntimeconfig.cache
